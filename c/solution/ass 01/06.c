@@ -1,3 +1,6 @@
+// 6. WAP to print the name of the user in double quotes.
+// Expected output format – “Hello , Amit Kumar”
+
 #include<stdio.h>
 int main()
 {
@@ -7,3 +10,4 @@ int main()
     printf("\' Hello ,%c\"",ch);
     return 0;
 }
+n
